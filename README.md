@@ -28,6 +28,7 @@ To run the notebook :
 ~~~
 jupyter notebook
 ~~~
+____________
 
 ## **Equity, currency, Futures and Option**
 
@@ -46,12 +47,18 @@ Whether you are an experienced trader or just starting out, this backtesting fra
 
 ### Equity trading strategies
 
-- Buy today sell tomorrow strategy
-- RSI strategy
+- Buy today sell tomorrow strategy.
+- RSI strategy.
 - Three cross over moving average strategy with tear sheet
 - Three simple cross over moving average strategy with optimization.
 
 ### Future and option trading strategies
+
+- option greeks calculation
+- option chain streaming
+- option buying strategy
+
+_____________
 
 ## **CryptoCurrency Trading**
 
