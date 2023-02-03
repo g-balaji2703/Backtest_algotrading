@@ -2,3 +2,5 @@ ba_venv/
 .ipynb_checkpoints/
 test.ipynb
 test.py
+venv/
+.env
